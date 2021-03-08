@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a997e11f-0f93-4cc8-be0a-75f476a97c9a" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1TO0PiVBBiZPPmGdMU3YDgLNNfa" />
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.web.browsers" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Vincere\Desktop\Nhom19_WebBanDienThoai\Admin\img" />
+      <recent name="C:\Users\NeviR\Desktop\Admin\libs\aos-animation" />
+      <recent name="C:\Users\NeviR\Desktop\Admin\libs" />
+      <recent name="C:\Users\NeviR\Desktop\Admin\js" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Vincere\WebstormProjects\Admin" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a997e11f-0f93-4cc8-be0a-75f476a97c9a" name="Default Changelist" comment="" />
+      <created>1573315811550</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1573315811550</updated>
+      <workItem from="1573315812829" duration="1643000" />
+      <workItem from="1573366696520" duration="28988000" />
+      <workItem from="1573443993902" duration="35000" />
+      <workItem from="1573444037207" duration="22726000" />
+      <workItem from="1573528321553" duration="17355000" />
+      <workItem from="1573620146026" duration="3093000" />
+      <workItem from="1573636860244" duration="19000" />
+      <workItem from="1573658425619" duration="1070000" />
+      <workItem from="1573667127966" duration="5036000" />
+      <workItem from="1573693361620" duration="571000" />
+      <workItem from="1573701149650" duration="12670000" />
+      <workItem from="1573719506072" duration="43000" />
+      <workItem from="1573725833336" duration="1368000" />
+      <workItem from="1573789687076" duration="32488000" />
+      <workItem from="1573828646720" duration="2114000" />
+      <workItem from="1573836808516" duration="441000" />
+      <workItem from="1573916062849" duration="1313000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/../ATM2/ATM/assets/js/jquery-2.2.4.min.js</url>
+          <line>12</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

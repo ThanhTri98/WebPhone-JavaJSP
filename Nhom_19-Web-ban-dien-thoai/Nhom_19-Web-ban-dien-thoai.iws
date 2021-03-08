@@ -1,0 +1,387 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="Nhom_19-Web-ban-dien-thoai:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f42c8e17-f592-4c2e-8d7d-96fae3699e4c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="ErrorTreeViewConfiguration">
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideInfoMessages" value="true" />
+    <option name="hideWarnings" value="true" />
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="true" />
+    <option name="HIDE_WARNINGS" value="true" />
+    <option name="HIDE_INFO_MESSAGES" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="Class" />
+        <option value="Jsp File" />
+      </list>
+    </option>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="ProjectId" id="1UnOX7aWREuRjnp7IVuSVARkSuq" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="ToolWindowMessages.ShowToolbar" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/IdeaProjects/LapTrinhWeb" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Global Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Intellij-WEB\Nhom_19-Web-ban-dien-thoai\web\WEB-INF\lib" />
+      <recent name="D:\Intellij-WEB\Nhom_19-Web-ban-dien-thoai\web\WEB-INF" />
+      <recent name="D:\Intellij-WEB\Nhom_19-Web-ban-dien-thoai\web\assets\img\common\logo-nsx" />
+      <recent name="D:\Intellij-WEB\Nhom_19-Web-ban-dien-thoai\out\artifacts\Nhom_19_Web_ban_dien_thoai_war_exploded\assets\img\common\logo-nsx" />
+      <recent name="D:\Intellij-WEB\Nhom_19-Web-ban-dien-thoai\out\artifacts\Nhom_19_Web_ban_dien_thoai_war_exploded\assets\img\common" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="website.model" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Intellij-WEB\Nhom_19-Web-ban-dien-thoai\web\WEB-INF\lib" />
+      <recent name="D:\Intellij-WEB\Nhom_19-Web-ban-dien-thoai\web\Admin\js" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Tomcat Server.TOMCAT">
+    <configuration name="CartDAO" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="website.dao.CartDAO" />
+      <module name="Nhom_19-Web-ban-dien-thoai" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="website.dao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CheckExistObj" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="libs.CheckExistObj" />
+      <module name="Nhom_19-Web-ban-dien-thoai" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="libs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DashboardDAO" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="admin.dao.DashboardDAO" />
+      <module name="Nhom_19-Web-ban-dien-thoai" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="admin.dao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ForgetPassController" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="website.controller.ForgetPassController" />
+      <module name="Nhom_19-Web-ban-dien-thoai" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="website.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OderDAO" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="admin.dao.OderDAO" />
+      <module name="Nhom_19-Web-ban-dien-thoai" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="admin.dao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SearchDAO" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="website.dao.SearchDAO" />
+      <module name="Nhom_19-Web-ban-dien-thoai" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="website.dao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="javax.annotation.jar" type="JarApplication">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/lib/javax.annotation.jar" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TOMCAT" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.49" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8181/" />
+      <option name="UPDATING_POLICY" value="update-resources" />
+      <deployment>
+        <artifact name="Nhom_19-Web-ban-dien-thoai:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_Nhom_19-Web-ban-dien-thoai" />
+        <option name="HTTP_PORT" value="8181" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="51303" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="Nhom_19-Web-ban-dien-thoai:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.CartDAO" />
+      <item itemvalue="Application.SearchDAO" />
+      <item itemvalue="Application.CheckExistObj" />
+      <item itemvalue="Application.OderDAO" />
+      <item itemvalue="Application.DashboardDAO" />
+      <item itemvalue="Application.ForgetPassController" />
+      <item itemvalue="JAR Application.javax.annotation.jar" />
+      <item itemvalue="Tomcat Server.TOMCAT" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ForgetPassController" />
+        <item itemvalue="Application.DashboardDAO" />
+        <item itemvalue="Application.SearchDAO" />
+        <item itemvalue="Application.OderDAO" />
+        <item itemvalue="Application.CheckExistObj" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <option name="contentProportion" value="0.116692424" />
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Tomcat Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Tomcat Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="Finished" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f42c8e17-f592-4c2e-8d7d-96fae3699e4c" name="Default Changelist" comment="" />
+      <created>1575988929586</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575988929586</updated>
+      <workItem from="1575988930934" duration="12883000" />
+      <workItem from="1576045911037" duration="567000" />
+      <workItem from="1576166877217" duration="12353000" />
+      <workItem from="1576213747219" duration="16148000" />
+      <workItem from="1576241317792" duration="3025000" />
+      <workItem from="1576478803740" duration="2235000" />
+      <workItem from="1576507341849" duration="1365000" />
+      <workItem from="1576672815111" duration="11762000" />
+      <workItem from="1576685452429" duration="1538000" />
+      <workItem from="1576716693272" duration="3703000" />
+      <workItem from="1576903171123" duration="1371000" />
+      <workItem from="1577014217135" duration="17373000" />
+      <workItem from="1577458519489" duration="100000" />
+      <workItem from="1577458782889" duration="19118000" />
+      <workItem from="1577628558692" duration="11145000" />
+      <workItem from="1577671325480" duration="13879000" />
+      <workItem from="1577714191904" duration="16300000" />
+      <workItem from="1577808602549" duration="12898000" />
+      <workItem from="1577935237944" duration="5132000" />
+      <workItem from="1578411090408" duration="10441000" />
+      <workItem from="1578448907089" duration="24298000" />
+      <workItem from="1578503291271" duration="11004000" />
+      <workItem from="1578531213657" duration="6279000" />
+      <workItem from="1589980893446" duration="837000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="137" y="18" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1589980977842">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="137" y="18" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1589980977842" />
+    <state width="1142" height="187" key="GridCell.Tab.0.bottom" timestamp="1589982113746">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1142" height="187" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1589982113746" />
+    <state width="1142" height="187" key="GridCell.Tab.0.center" timestamp="1589982113745">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1142" height="187" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1589982113745" />
+    <state width="1142" height="187" key="GridCell.Tab.0.left" timestamp="1589982113745">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1142" height="187" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1589982113745" />
+    <state width="1142" height="187" key="GridCell.Tab.0.right" timestamp="1589982113745">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1142" height="187" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1589982113745" />
+    <state width="1142" height="187" key="GridCell.Tab.1.bottom" timestamp="1589982113746">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1142" height="187" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1589982113746" />
+    <state width="1142" height="187" key="GridCell.Tab.1.center" timestamp="1589982113746">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1142" height="187" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1589982113746" />
+    <state width="1142" height="187" key="GridCell.Tab.1.left" timestamp="1589982113746">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1142" height="187" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1589982113746" />
+    <state width="1142" height="187" key="GridCell.Tab.1.right" timestamp="1589982113746">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1142" height="187" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1589982113746" />
+    <state width="1142" height="187" key="GridCell.Tab.2.bottom" timestamp="1589982113746">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1142" height="187" key="GridCell.Tab.2.bottom/0.0.1366.728@0.0.1366.728" timestamp="1589982113746" />
+    <state width="1142" height="187" key="GridCell.Tab.2.center" timestamp="1589982113746">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1142" height="187" key="GridCell.Tab.2.center/0.0.1366.728@0.0.1366.728" timestamp="1589982113746" />
+    <state width="1142" height="187" key="GridCell.Tab.2.left" timestamp="1589982113746">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1142" height="187" key="GridCell.Tab.2.left/0.0.1366.728@0.0.1366.728" timestamp="1589982113746" />
+    <state width="1142" height="187" key="GridCell.Tab.2.right" timestamp="1589982113746">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1142" height="187" key="GridCell.Tab.2.right/0.0.1366.728@0.0.1366.728" timestamp="1589982113746" />
+  </component>
+</project>
